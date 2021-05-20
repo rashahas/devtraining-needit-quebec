@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="my custome table" max_length="40" name="x_58872_needit_my_custome_table" sizeclass="0" type="collection"/>
+</database>
