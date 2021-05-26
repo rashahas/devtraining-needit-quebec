@@ -168,5 +168,24 @@
             <sys_updated_on>2021-05-20 20:54:37</sys_updated_on>
             <value>your_choice2</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-26 20:48:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>abf32b6a2f14301077702ea62799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-26 20:48:32</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
     </sys_choice>
 </record_update>
